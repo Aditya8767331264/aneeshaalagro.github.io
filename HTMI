@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AneeshaalAgro Global</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4fff4;
+      color: #333;
+    }
+    header {
+      background-color: #2e7d32;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #388e3c;
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #2e7d32;
+    }
+    footer {
+      background-color: #2e7d32;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AneeshaalAgro Global</h1>
+    <p>Bringing Innovation to Agriculture</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Us</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+    <a href="#testimonials">Testimonials</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>AneeshaalAgro Global is an international agriculture company committed to modernizing farming practices and delivering top-quality agro products. We aim to empower farmers and agribusinesses through sustainable and innovative solutions.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Export & Import of premium agricultural products</li>
+      <li>Consulting for sustainable and organic farming</li>
+      <li>Modern irrigation and soil management solutions</li>
+      <li>Distribution of quality seeds and agro-inputs</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: info@aneeshaalagro.com</p>
+    <p>Phone: +91-9876543210</p>
+    <p>Address: 123 Greenfield Avenue, Nashik, Maharashtra, India</p>
+  </section>
+
+  <section id="testimonials">
+    <h2>What Our Clients Say</h2>
+    <blockquote>
+      "AneeshaalAgro has transformed the way we do farming. Their quality products and support are top-notch!"<br>
+      – Mr. Ramesh Patil, Farmer
+    </blockquote>
+    <blockquote>
+      "Reliable export partner for our agribusiness. Professional, efficient, and trustworthy."
+      <br>– AgriWorld Exports
+    </blockquote>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 AneeshaalAgro Global. All rights reserved.</p>
+  </footer>
+</body>
+</html>
